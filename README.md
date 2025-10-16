@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot-final.png)
+![](https://raw.githubusercontent.com/GaetanT15/FEM-newbie---Blog-preview-card/refs/heads/main/Screenshot-final.png)
 
 ### Links
 
