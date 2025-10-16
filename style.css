@@ -45,8 +45,7 @@ html{
     font-weight: 900;
 }
 
-
-
+/*End UI kit*/
 body{
     background-color: var(--yellow);
     height: 100svh;
@@ -116,7 +115,6 @@ body{
         }
     }
 }
-
 
 .attribution {
     font-size: 11px; 
