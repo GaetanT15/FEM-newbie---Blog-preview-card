@@ -61,7 +61,7 @@ body{
     border: 1px solid var(--grey-950);
 
     width: 384px;
-    padding: 24px;
+    padding: 23px; /*To simulate the inside value of the border, not really clean*/
 
     display: flex;
     flex-direction: column;
